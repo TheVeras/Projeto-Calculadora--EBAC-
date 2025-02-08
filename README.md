@@ -1,5 +1,5 @@
 # Projeto Calculadora (EBAC)
- Um projeto realizado para a criação de um script in linux (nessa atividade utilizei o ubuntu) 
+ Um projeto realizado para a criação de um script em linux (nessa atividade utilizei o ubuntu) 
  que roda uma calculadora em pyhton.
 
 ## Modo de Utilização
