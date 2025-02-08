@@ -2,7 +2,7 @@
  Um projeto realizado para a criação de um script in linux (nessa atividade utilizei o ubuntu) 
  que roda uma calculadora em pyhton.
 
-# Modo de Utilização
+## Modo de Utilização
     - Baixe o repositório.
     - Coloque a pasta em seu diretório linux.
     - Abra o Ubuntu (ou o linux de sua preferência).
